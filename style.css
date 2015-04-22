@@ -1,0 +1,9 @@
+﻿body {
+    font-family: Arial;
+}
+
+#result {
+    background-color: #f3f3f3;
+    width: 500px;
+    min-height: 100px;
+}
